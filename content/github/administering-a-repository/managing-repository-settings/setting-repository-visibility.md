@@ -1,4 +1,4 @@
----
+---axie
 title: Setting repository visibility
 intro: You can choose who can view your repository.
 redirect_from:
