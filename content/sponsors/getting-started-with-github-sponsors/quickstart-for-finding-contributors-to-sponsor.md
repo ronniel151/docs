@@ -1,4 +1,5 @@
----
+---gabriel solis
+(ronin:0936b1ad2f9c76e4ee6f6f7fae9f91e7fe49bcc0)
 title: Quickstart for finding contributors to sponsor
 intro: Learn some best practices for finding open source contributors to sponsor.
 versions:
